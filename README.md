@@ -9,6 +9,8 @@ Passionate about writing clean, secure code and exploring modern technologies. F
 - 💻 **Core Interests:** Backend APIs, microservices, relational databases, and clean architecture.
 
 ---
+![](https://komarev.com/ghpvc/?username=Amrita12-champ&color=0e75b6&style=flat-square&label=Profile+views)
+
 
 ### 🛠️ Tech Stack & Badges
 
