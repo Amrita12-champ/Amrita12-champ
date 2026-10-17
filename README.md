@@ -6,7 +6,7 @@ Passionate about writing clean, secure code and exploring modern technologies. F
 
 - 🔭 **Current Focus:** Developing full-stack applications with Spring Boot, Angular, and React.
 - 🎓 **Education:** Pursuing Master of Computer Applications (MCA), strengthening core Computer Science & software design fundamentals.
-- 💻 **Core Interests:** Backend APIs, microservices, relational databases, and clean architecture...
+- 💻 **Core Interests:** Backend APIs, microservices, relational databases, and clean architecture.
 
 ---
 ![](https://komarev.com/ghpvc/?username=Amrita12-champ&color=0e75b6&style=flat-square&label=Profile+views)
