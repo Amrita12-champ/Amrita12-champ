@@ -1,4 +1,4 @@
-# Hi there, I'm Amrita 🌸
+t# Hi there, I'm Amrita 🌸
 
 ### 🚀 Full-stack Developer & Aspiring Software Engineer
 
